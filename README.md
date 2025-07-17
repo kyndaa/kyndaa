@@ -6,11 +6,9 @@
  Hello I'm Kynda! Graduated in May 2025 from McGill University with a bachelor's degree in mathematics. I took a minor in Computer Science and am looking to create more projects. 
 </body>  
 <p>  </p>
-I am very interested in sociology, social justice, and political science, and I love to connect those interests to math and STEM. 
+I am very interested in sociology, social justice, and political science, and I love to connect those interests to STEM. 
 <div align="middle">
-  <p>
-  !!!
-  </p>
+
 </div>
 <!--
 **kyndaa/kyndaa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
