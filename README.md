@@ -1,7 +1,5 @@
 ## Hi there 👋
-<a href="https://github.com/kyndaa/github-readme-stats">
-  <img height=200 align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kyndaa&layout=donut&theme=dracula&hide_border=false&bg_color=60,040505,040505,040505,1c00cd,e00077" />
-</a>
+![kynda's GitHub stats](https://github-readme-stats.vercel.app/api?username=kyndaa&show_icons=true&theme=radical)
 <body>
  Hello I'm Kynda! Graduated in May 2025 from McGill University with a bachelor's degree in mathematics. I took a minor in Computer Science and am looking to create more projects. 
 </body>  
