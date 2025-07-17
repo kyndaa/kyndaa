@@ -1,5 +1,6 @@
 ## Hi there 👋
-![kynda's GitHub stats](https://github-readme-stats.vercel.app/api?username=kyndaa&show_icons=true&theme=radical)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kyndaa)](https://github.com/anuraghazra/github-readme-stats)
+
 <body>
  Hello I'm Kynda! Graduated in May 2025 from McGill University with a bachelor's degree in mathematics. I took a minor in Computer Science and am looking to create more projects. 
 </body>  
