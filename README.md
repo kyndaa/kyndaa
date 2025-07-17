@@ -1,5 +1,5 @@
 ## Hi there 👋
-<a href="https://github.com/dotEpoch/github-readme-stats">
+<a href="https://github.com/kyndaa/github-readme-stats">
   <img height=200 align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kyndaa&layout=donut&theme=dracula&hide_border=false&bg_color=60,040505,040505,040505,1c00cd,e00077" />
 </a>
 
